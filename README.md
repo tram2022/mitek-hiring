@@ -1,5 +1,6 @@
 🌍 𝐌𝐢𝐓𝐞𝐤 𝐢𝐬 𝐇𝐢𝐫𝐢𝐧𝐠: 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 (𝐂++) - All level
- We’re building the next generation of 3D BIM and engineering software for the residential construction industry — and we need you on our team.
+
+We’re building the next generation of 3D BIM and engineering software for the residential construction industry — and we need you on our team.
 
 Role, Responsibilities & Typical Activities
 - Code, enhance, test, and debug 3D CAD/Engineering desktop software using C++, C, and C#.
